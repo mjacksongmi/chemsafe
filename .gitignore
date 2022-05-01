@@ -1,0 +1,10 @@
+bin/build
+bin/logs
+public/files
+public/images
+public/zenex
+public/flipbook
+public/build
+public/antd
+videos
+node_modules
